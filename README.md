@@ -1,5 +1,5 @@
 # Scripts
 
 ## Powershell Scripts
-. File rename
-. Playlist mover
+* File rename
+* Playlist mover
